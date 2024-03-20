@@ -1,0 +1,19 @@
+{
+  "samples": [
+    {
+      "name": "Next.js SSR Cookie Auth",
+      "description": "A Next.js App Router template configured with cookie-based auth using Supabase, TypeScript and Tailwind CSS.",
+      "url": "https://github.com/vercel/next.js/tree/canary/examples/with-supabase"
+    },
+    {
+      "name": "Swift iOS User Management",
+      "description": "iOS User Management example with Swift.",
+      "url": "https://github.com/supabase/supabase/tree/master/examples/user-management/swift-user-management"
+    },
+    {
+      "name": "Expo React Native User Management",
+      "description": "React Native User Management example with Expo.",
+      "url": "https://github.com/supabase/supabase/tree/master/examples/user-management/expo-user-management"
+    }
+  ]
+}
