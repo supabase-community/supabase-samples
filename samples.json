@@ -4,13 +4,13 @@
       "name": "nextjs",
       "description": "A Next.js App Router template configured with cookie-based auth.",
       "url": "https://github.com/supabase/supabase/tree/master/examples/auth/nextjs",
-      "start": "npm run dev"
+      "start": "npm install && npm run dev"
     },
     {
       "name": "expo",
       "description": "An Expo React Native User Management starter.",
       "url": "https://github.com/supabase/supabase/tree/master/examples/user-management/expo-user-management",
-      "start": "npm start"
+      "start": "npm install && npm start"
     },
     {
       "name": "flutter",
@@ -28,7 +28,7 @@
       "name": "rbac",
       "description": "A Next.js RBAC Slack clone starter.",
       "url": "https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone",
-      "start": "npm run dev"
+      "start": "npm install && npm run dev"
     }
   ]
 }
