@@ -34,7 +34,7 @@
       "name": "basejump-next",
       "description": "A Next.js starter with personal accounts, teams, permissions and Stripe billing",
       "url": "https://github.com/usebasejump/basejump-next/tree/supabase-bootstrap",
-      "start": "Consider installing the Basejump Nextjs starter template"
+      "start": "npm install && npm run dev"
     }
   ]
 }
