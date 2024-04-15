@@ -31,7 +31,7 @@
       "start": "npm install && npm run dev"
     },
     {
-      "name": "basejump-next",
+      "name": "@basejump/next",
       "description": "A Next.js starter with personal accounts, teams, permissions and Stripe billing",
       "url": "https://github.com/usebasejump/basejump-next/tree/supabase-bootstrap",
       "start": "npm install && npm run dev"
