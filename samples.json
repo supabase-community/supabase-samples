@@ -29,6 +29,12 @@
       "description": "A Next.js RBAC Slack clone starter.",
       "url": "https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone",
       "start": "npm install && npm run dev"
+    },
+    {
+      "name": "@basejump/nextjs",
+      "description": "A Next.js starter with personal accounts, teams, permissions and Stripe billing",
+      "url": "https://github.com/usebasejump/basejump-next/tree/supabase-bootstrap",
+      "start": "npm install && npm run dev"
     }
   ]
 }
