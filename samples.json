@@ -20,7 +20,7 @@
     },
     {
       "name": "swift",
-      "description": "A Next.js User Management starter.",
+      "description": "A Swift User Management starter.",
       "url": "https://github.com/supabase/supabase/tree/master/examples/user-management/swift-user-management",
       "start": "Run on a device or simulator using Xcode."
     },
