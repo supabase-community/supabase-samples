@@ -1,6 +1,12 @@
 {
   "samples": [
     {
+      "name": "embeddings",
+      "description": "AI Inference in Supabase Edge Functions.",
+      "url": "https://github.com/supabase/supabase/tree/master/examples/ai/edge-functions",
+      "start": "supabase start && supabase functions serve"
+    },
+    {
       "name": "nextjs",
       "description": "A Next.js App Router template configured with cookie-based auth.",
       "url": "https://github.com/supabase/supabase/tree/master/examples/auth/nextjs",
