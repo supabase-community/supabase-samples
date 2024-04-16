@@ -1,7 +1,7 @@
 {
   "samples": [
     {
-      "name": "ai",
+      "name": "embeddings",
       "description": "AI Inference in Supabase Edge Functions.",
       "url": "https://github.com/supabase/supabase/tree/master/examples/ai/edge-functions",
       "start": "supabase start && supabase functions serve"
