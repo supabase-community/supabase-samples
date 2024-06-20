@@ -7,6 +7,12 @@
       "start": "supabase start && supabase functions serve"
     },
     {
+      "name": "pgvector-python",
+      "description": "AI Inference Image Search with Supabase Vector in Python.",
+      "url": "https://github.com/supabase/supabase/tree/master/examples/ai/image_search",
+      "start": "pip install poetry && poetry shell && poetry install"
+    },
+    {
       "name": "nextjs",
       "description": "A Next.js App Router template configured with cookie-based auth.",
       "url": "https://github.com/supabase/supabase/tree/master/examples/auth/nextjs",
