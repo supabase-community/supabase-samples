@@ -1,6 +1,12 @@
 {
   "samples": [
     {
+      "name": "amazon-bedrock",
+      "description": "Image Search with Amazon Bedrock and Supabase Vector.",
+      "url": "https://github.com/supabase/supabase/tree/master/examples/ai/aws_bedrock_image_search",
+      "start": "pip install poetry && poetry shell && poetry install"
+    },
+    {
       "name": "embeddings",
       "description": "AI Inference in Supabase Edge Functions.",
       "url": "https://github.com/supabase/supabase/tree/master/examples/ai/edge-functions",
