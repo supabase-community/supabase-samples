@@ -19,6 +19,12 @@
       "start": "pip install poetry && poetry shell && poetry install"
     },
     {
+      "name": "hono",
+      "description": "A Hono template configured with cookie-based auth.",
+      "url": "https://github.com/supabase/supabase/tree/master/examples/auth/hono",
+      "start": "npm install && npm run dev"
+    },
+    {
       "name": "nextjs",
       "description": "A Next.js App Router template configured with cookie-based auth.",
       "url": "https://github.com/supabase/supabase/tree/master/examples/auth/nextjs",
